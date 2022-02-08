@@ -1,7 +1,6 @@
 import 'package:ecommerceapp_main/constants/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:ecommerceapp_main/modals/product.dart';
-import 'package:flutter/rendering.dart';
 import 'package:ecommerceapp_main/modals/product_cart.dart';
 import 'package:provider/provider.dart';
 

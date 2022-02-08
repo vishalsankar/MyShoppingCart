@@ -40,7 +40,7 @@ class _ProfilePageState extends State<ProfilePage> {
                     ),
                   ),
                 ),
-                Positioned(
+                const Positioned(
                   left: 160,
                   bottom: 60,
                   child: Text(
