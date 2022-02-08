@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+    "name":"Round Neck Sweater",
+    "itemurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-eycV9NCbaKmRJBFoe5KgQhYY9KJmkd7dQ&usqp=CAU",
+    "brand":"Roadster",
+    "price":700
+    },
+    {
+    "name":"Casual Shirt",
+    "itemurl":"https://5.imimg.com/data5/UC/TY/MY-9601095/100-25-cotton-fancy-casual-shirt-for-men-500x500.jpg",
+    "brand":"Peter England",
+    "price":600
+    },
+    {
+    "name":"Formal Blazer",
+    "itemurl":"https://5.imimg.com/data5/IB/NG/GA/SELLER-101590291/slim-fit-three-piece-formal-coat-pant-500x500.jpg",
+    "brand":"Peter England",
+    "price":1100
+    },
+    {
+    "name":"Nike Air Ones",
+    "itemurl":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6122e8f2-b92d-4bb8-98de-92d5e4be1cd2/air-force-1-shadow-womens-shoes-kTgn9J.png",
+    "brand":"Nike Original",
+    "price":3000
+    }
+  ]
+}
